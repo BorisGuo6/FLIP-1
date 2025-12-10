@@ -1,5 +1,6 @@
 device: cuda:0
-source_dir: data/libero_10
+# source_dir: data/libero_10
+source_dir: data/mytest
 new_imge_size: [128, 128]
 point_num: 529
 clip_length: 16
